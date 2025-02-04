@@ -1,0 +1,12 @@
+[submodule "Project1Day3"]
+	path = Project1Day3
+	url = https://github.com/TanishqRawat0112/Project1Day3.git
+[submodule "Project2Day3"]
+	path = Project2Day3
+	url = https://github.com/TanishqRawat0112/Project2Day3.git
+[submodule "Project3Day3"]
+	path = Project3Day3
+	url = https://github.com/TanishqRawat0112/Project3Day3.git
+[submodule "Project4Day3"]
+	path = Project4Day3
+	url = https://github.com/TanishqRawat0112/Project4Day3.git
